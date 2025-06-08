@@ -1,3 +1,4 @@
+#Create lower triangular, upper triangular and pyramid containing the "*" character.
 def lower_triangle(n):
     print("Lower Triangular Pattern:")
     for i in range(1, n + 1):
